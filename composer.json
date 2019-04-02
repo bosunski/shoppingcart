@@ -1,0 +1,12 @@
+{
+    "name": "d/f",
+    "description": "A light weight shopping cart package for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "drumzminister",
+        "email": "ishukpong418@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {}
+}
