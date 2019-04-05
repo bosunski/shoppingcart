@@ -1,10 +1,10 @@
 <?php
 namespace Drumzminister\ShoppingCart\Services;
 
-class ShoppingCart
+class Database
 {
     public function dump()
     {
-        dd('dumping shopping cart');
+        dd('using database');
     }
 }
